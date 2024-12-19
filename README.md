@@ -1,6 +1,6 @@
 # 👩‍💻 Emily Morgado
 
-¡Hola! Soy Emily Morgado, apasionada por la tecnología, el desarrollo web y la programación. 🌟 Vivo en un país tropical y actualmente estoy trabajando en proyectos que combinan creatividad y funcionalidad.
+¡Hola! Soy Emily Morgado, apasionada por la tecnología, el desarrollo web y la programación. 🌟 Actualmente estoy trabajando en proyectos que combinan creatividad y funcionalidad.
 
 ## 🛠️ Tecnologías y herramientas que manejo:
 - **Lenguajes**: HTML, CSS, PHP, JavaScript, SQL.
